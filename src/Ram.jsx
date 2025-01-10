@@ -50,7 +50,7 @@ const Ram = () => {
 
   return (
     <div>
-      <h1>Product List</h1>
+      <h1>Product List for Yahweh</h1>
       <ul>
         {products.map((product) => (
           <li key={product.id}>
