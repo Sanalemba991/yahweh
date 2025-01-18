@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Cart from "./cart";
+import Cart from "./rt";
 import Ram from "./Ram"
 
 function App() {
